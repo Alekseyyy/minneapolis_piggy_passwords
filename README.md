@@ -9,5 +9,5 @@ __BREAKING N00Z!!!1__ the dump was determined to be a faek [sez Troy Hunt](https
 ## Files
 
 * [analysis.py](./analysis.py): the python skript that I wrote to do analysis of piggy passwords.
-* [EMAILS & PASSWORDS.txt](./EMAILS & PASSWORDS.txt): the raw data dump by anonymoose.
+* EMAILS & PASSWORDS.txt: the raw data dump by anonymoose.
 * [police_emails_passwords.txt](./police_emails_passwords.txt): a modified version of _EMAILS & PASSWORDS.txt_ that can be analysed by muh python skript.
